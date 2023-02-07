@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 ,国家地理
+http://185.59.223.102:8080/natgeo/index.m3u8
+#EXTINF:-1 ,国家地理wild
+http://185.59.223.102:8080/natgeowild/index.m3u8
 #EXTINF:-1 ,cctv新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1 ,cctv5
