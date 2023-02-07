@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 ,REAL CRIME
+https://alliantcontent-truecrimenow-3-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,CHANNELNEWSASIA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 ,GLOBAL NEWS
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
 #EXTINF:-1 ,国家地理
 http://185.59.223.102:8080/natgeo/index.m3u8
 #EXTINF:-1 ,国家地理wild
@@ -25,7 +33,7 @@ http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
 https://mn-nl.mncdn.com/blutv_trtworld2/live.m3u8
 #EXTINF:-1 ,FASHIONTV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,FASHIONTV2
+#EXTINF:-1 ,FASHIONTVquick
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
 #EXTINF:-1 ,BLOOMBERGNEWS
 https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
