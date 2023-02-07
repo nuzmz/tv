@@ -1,2 +1,2 @@
 # tv
-tvm3u
+collection for m3u
