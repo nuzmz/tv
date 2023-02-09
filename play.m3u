@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,cctv13
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1,fashiontv japan1
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1,fashiontv japan2
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1,ntv europe
+https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+#EXTINF:-1,fashion tv
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,fashiontv com
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,gustotv
+https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8
